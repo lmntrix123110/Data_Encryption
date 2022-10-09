@@ -1,2 +1,2 @@
-# Data_Encription
+# Data_Encryption
 Encription in form of text file
